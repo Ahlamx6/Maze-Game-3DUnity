@@ -10,3 +10,4 @@ The goal of this game is to develop kid's skills in developing strategies, spati
 ![maze1](https://user-images.githubusercontent.com/102240641/180887224-4ed65440-f3d0-4aaf-a685-8e2c68b8898b.png)
 
 -STEP 2 : Directional movement of player,by(#c).
+![playermove](https://user-images.githubusercontent.com/102240641/181067458-36cce3d2-27af-4edc-ba72-b3769992a274.gif)
