@@ -13,6 +13,7 @@ The goal of this game is to develop kid's skills in developing strategies, spati
 
 ![playermove](https://user-images.githubusercontent.com/102240641/181067458-36cce3d2-27af-4edc-ba72-b3769992a274.gif)
 
+-STEP 3 : Add keys for player to collect .
 
 
 
