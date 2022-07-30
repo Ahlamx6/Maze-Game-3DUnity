@@ -27,6 +27,10 @@ The goal of this game is to develop kid's skills in developing strategies, spati
 
 - STEP 6 : Add music control .
 
+![music](https://user-images.githubusercontent.com/102240641/181916965-c2af4f31-d7b5-4be2-9ef6-576ae8e8a36c.png)
+
+-STEP 7 : FAINALLY!!
+
 
 
 
