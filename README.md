@@ -1,6 +1,6 @@
 # Maze-Game-3D-Unity
-Treasure Maze Game  
-This is a maze game that I developed by Unity ,and the language used in this project is #C .
+  
+a maze game that I developed by Unity ,and the language used in this project is #C .
 
 .
 .
