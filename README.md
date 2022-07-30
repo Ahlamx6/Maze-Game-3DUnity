@@ -19,6 +19,9 @@ The goal of this game is to develop kid's skills in developing strategies, spati
 
 -STEP 4 : Add enemies ( when you touch them you will be returned to the starting ).
 
+![maze_enemy](https://user-images.githubusercontent.com/102240641/181864155-2533038d-ebef-4d09-8071-2bcb83ca2d74.png)
+
+-STEP 5 :
 
 
 
