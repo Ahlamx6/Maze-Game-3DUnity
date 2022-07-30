@@ -31,6 +31,8 @@ The goal of this game is to develop kid's skills in developing strategies, spati
 
 -STEP 7 : FAINALLY!!
 
+![MazeGame1](https://user-images.githubusercontent.com/102240641/181933511-5d9080e4-af02-4cf9-9f3f-a8fcf9e4b43e.gif)
+
 
 
 
