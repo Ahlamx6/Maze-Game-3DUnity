@@ -21,8 +21,9 @@ The goal of this game is to develop kid's skills in developing strategies, spati
 
 ![maze_enemy](https://user-images.githubusercontent.com/102240641/181864155-2533038d-ebef-4d09-8071-2bcb83ca2d74.png)
 
--STEP 5 :
+-STEP 5 : Add an end goal point .
 
+![endgoal](https://user-images.githubusercontent.com/102240641/181908028-b06743d7-f288-4156-82a4-811c3045990a.png)
 
 
 
